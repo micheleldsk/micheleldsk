@@ -6,4 +6,8 @@ I'm addicted to series;<br>
 I can't live without music;<br>
 I read a lot, on different subjects;<br>
 I care a lot about the environment and the attitudes that I can improve;<br>
-And I believe that technology really moves the world, if we just know how to use it. 
+And I believe that technology really moves the world, if we just know how to use it.<br>
+<br>
+<br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkhb6bhi6fxrzgbcb65xdia&unique={true|1|on|yes})
+
