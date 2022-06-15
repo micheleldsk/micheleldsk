@@ -9,5 +9,5 @@ I care a lot about the environment and the attitudes that I can improve;<br>
 And I believe that technology really moves the world, if we just know how to use it.<br>
 <br>
 <br>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkhb6bhi6fxrzgbcb65xdia)
 
