@@ -24,6 +24,14 @@ Leio muito, sobre diversos assuntos;<br>
 Preocupo-me muito com o meio ambiente e com as atitudes que posso melhorar;<br>
 E acredito que a tecnologia realmente move o mundo, se soubermos usá-la.<br>
 <br>
+<div>
+    <h3>Contact me/Contate me:</h3><br>
+     <a href="https://www.linkedin.com/in/micheleladanivski84/" target="_blank" rel="noopener noreferrer"><img src="/assets/lk.png" alt="lk" width="50px"></a>    
+     <a href="https://www.instagram.com/mikarumi_art/" target="_blank" rel="noopener noreferrer"><img src="/assets/inst.jpg" alt="inst" width="50px"></a>
+     <a href="https://twitter.com/ladanivski" target="_blank" rel="noopener noreferrer"><img src="/assets/tw.png" alt="tw" width="50px"></a>
+     <a href="https://www.facebook.com/micheleldsk" target="_blank" rel="noopener noreferrer"><img src="/assets/fb.png" alt="fb" width="50px"></a>
+ </div>
+<br>
 <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkhb6bhi6fxrzgbcb65xdia)
