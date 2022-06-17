@@ -18,7 +18,7 @@ And I believe that technology really moves the world, if we just know how to use
 
 Bom ter você aqui!<br>
 Eu amo minha família, INCLUINDO meus animais de estimação;<br>
-Sou viciado em séries;<br>
+Sou viciada em séries;<br>
 Não posso viver sem música;<br>
 Leio muito, sobre diversos assuntos;<br>
 Preocupo-me muito com o meio ambiente e com as atitudes que posso melhorar;<br>
