@@ -9,6 +9,7 @@ I can't live without music;<br>
 I read a lot, on different subjects;<br>
 I care a lot about the environment and the attitudes that I can improve;<br>
 And I believe that technology really moves the world, if we just know how to use it.<br>
+<hr>
 <div>
     <h3>Contact me:</h3><br>
      <a href="https://www.linkedin.com/in/micheleladanivski84/" target="_blank" rel="noopener noreferrer"><img src="/assets/lk.png" alt="lk" width="40px"></a>    
