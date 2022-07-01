@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=5050&color=F70E0E&background=FDFDFD00&lines=The+technology+moves+the+world...)](https://git.io/typing-svg)
 
-Graduated and active in Accounting until the birth of my son, but migrating from the area with total focus and dedication.
-Woman, mother and future professional Full Stack Web Developer in training by the <a href="https://www.growdev.com.br" target="_blank" rel="noopener noreferrer">Growdev</a> program.<br>
+<div class="tenor-gif-embed" data-postid="24577908" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sewa-rumah-nak-baya-bile-gif-24577908">Sewa Rumah Nak Baya Bile GIF</a>from <a href="https://tenor.com/search/sewa+rumah+nak+baya+bile-gifs">Sewa Rumah Nak Baya Bile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+Graduated and active in Accounting until the birth of my son, but migrating from the area.
+So, I'm woman, mother and future professional Full Stack Web Developer in training by the <a href="https://www.growdev.com.br" target="_blank" rel="noopener noreferrer">Growdev</a> program.<br>
 <br>
 <hr>
-Nice to have you here!<br>
 I love my family, INCLUDING my pets;<br>
 I'm addicted to series;<br>
 I can't live without music;<br>
@@ -14,13 +15,14 @@ And I believe that technology really moves the world, if we just know how to use
 <br>
 <div>
     <h3>Contact me:</h3><br>
-     <a href="https://www.linkedin.com/in/micheleladanivski84/" target="_blank" rel="noopener noreferrer"><img src="/assets/lk.png" alt="lk" width="50px"></a>    
-     <a href="https://www.instagram.com/mikarumi_art/" target="_blank" rel="noopener noreferrer"><img src="/assets/inst.jpg" alt="inst" width="50px"></a>
-     <a href="https://twitter.com/ladanivski" target="_blank" rel="noopener noreferrer"><img src="/assets/tw.png" alt="tw" width="50px"></a>
-     <a href="https://www.facebook.com/micheleldsk" target="_blank" rel="noopener noreferrer"><img src="/assets/fb.png" alt="fb" width="50px"></a>
+     <a href="https://www.linkedin.com/in/micheleladanivski84/" target="_blank" rel="noopener noreferrer"><img src="/assets/lk.png" alt="lk" width="40px"></a>    
+     <a href="https://www.instagram.com/mikarumi_art/" target="_blank" rel="noopener noreferrer"><img src="/assets/inst.jpg" alt="inst" width="40px"></a>
+     <a href="https://twitter.com/ladanivski" target="_blank" rel="noopener noreferrer"><img src="/assets/tw.png" alt="tw" width="40px"></a>
+     <a href="https://www.facebook.com/micheleldsk" target="_blank" rel="noopener noreferrer"><img src="/assets/fb.png" alt="fb" width="40px"></a>
  </div>
 <br>
 <br>
+<hr>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkhb6bhi6fxrzgbcb65xdia)
 
