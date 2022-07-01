@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=5050&color=F70E0E&background=FDFDFD00&lines=The+technology+moves+the+world...)](https://git.io/typing-svg)
 
-<div class="tenor-gif-embed" data-postid="24577908" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sewa-rumah-nak-baya-bile-gif-24577908">Sewa Rumah Nak Baya Bile GIF</a>from <a href="https://tenor.com/search/sewa+rumah+nak+baya+bile-gifs">Sewa Rumah Nak Baya Bile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/bPhZ2.gif"></a>
 
 Graduated and active in Accounting until the birth of my son, but migrating from the area.
 So, I'm woman, mother and future professional Full Stack Web Developer in training by the <a href="https://www.growdev.com.br" target="_blank" rel="noopener noreferrer">Growdev</a> program.<br>
