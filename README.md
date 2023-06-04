@@ -34,9 +34,9 @@ I believe that technology really moves the world, if we just know how to use it.
      <a href="https://api.whatsapp.com/send?phone=5541992447523"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" width="107px"></a>
 </div>
 <hr>
-<div>
+<!-- <div>
     <img src="assets/sewa-rumah-nak-baya-bile.gif" alt="repeat" width="375px" srcset="">
-</div>
+</div> -->
 <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkhb6bhi6fxrzgbcb65xdia)
