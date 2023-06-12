@@ -2,15 +2,15 @@
 
 Em busca de um futuro promissor na área tecnológica...
 <br>
-Meu nome é Michele e eu estou em transição de carreira para a área de tecnologia. <br>
-Aos quase 40 anos, eu decidi investir em minha formação e atualmente estou fazendo um curso de formação com mais de 1000 horas, focado em desenvolvimento de software e programação web.
+Prazer, eu sou a Michele e estou em transição de carreira para a área de tecnologia. <br>
+Aos quase 40 anos, decidi investir em um futuro com o qual eu flertava a certo tempo. Atualmente estou fazendo um curso de formação com mais de 1000 horas, focado em desenvolvimento de software e programação web.
 <br>
 Acredito que a tecnologia realmente move o mundo, basta sabermos como usá-la.
 <hr>
 In search of a promising future in the technological area...
 <br>
-Hi, I'm Michele and I'm in a career transition to technology. <br>
-At almost 40 years old, I decided to invest in my training and I am currently taking a training course with more than 1000 hours, focused on software development and web programming.
+Nice to meet you, I'm Michele and I'm in a career transition to the technology area. <br>
+At almost 40, I decided to invest in a future I had been flirting with for some time. I'm currently taking a training course with over 1000 hours, focused on software development and web programming.
 <br>
 I believe that technology really moves the world, if we just know how to use it.
 <br>
